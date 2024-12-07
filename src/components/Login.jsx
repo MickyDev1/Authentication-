@@ -108,7 +108,7 @@ const Login = () => {
           >
             {isLoading ? (
               <>
-                <DotLoader size={16} color="#000000" /> Logging in...
+                <DotLoader size={16} color="#000000" /> Logging In......
               </>
             ) : (
               "Login"
@@ -119,7 +119,7 @@ const Login = () => {
               Don&apos;t have an account?
             </span>{" "}
             <Link to="/signup-auth" className="underline">
-              Sign Up
+              Sign up
             </Link>
           </h1>
         </form>
