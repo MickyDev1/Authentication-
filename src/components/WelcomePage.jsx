@@ -31,7 +31,7 @@ const WelcomePage = () => {
         Welcome to the Authentication System
       </h1>
       <p className="text-lg font-medium">
-        This is a simple authentication system using React and Google Firebase.{" "}
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit porro facilis nostrum quidem? Amet recusandae deserunt voluptate non numquam distinctio ipsam illum. Veritatis velit nihil, soluta vero sequi dicta eaque.{" "}
         <br />
         You have been successfully onboarded!!
       </p>
